@@ -1,3 +1,5 @@
 # Python Endless Runner Game
 
-Extract all files into one folder before playing
+A game in which you dodge and dive over and under obstacles trying to take you out.
+
+Extract all files into one folder before playing.
