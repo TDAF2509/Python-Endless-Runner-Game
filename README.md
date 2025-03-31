@@ -5,7 +5,8 @@ A game in which you dodge and dive over and under obstacles trying to take you o
 Extract all files into one folder before playing.
 
 
-![image](https://github.com/user-attachments/assets/e92f6947-0ccf-4902-807e-31f7780e0bc3)
+![Endless Runner in game image](https://github.com/user-attachments/assets/b51f2b94-23f4-4b84-81ec-353bb5b4f3a8)
+
 
 
 
